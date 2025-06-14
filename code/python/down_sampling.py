@@ -3,7 +3,7 @@ import torchaudio.transforms as T
 
 # File input ad alta qualità
 input_path = "test.wav"
-output_path = "test_degraded.wav"
+output_path = "test_deg.wav"
 
 # Parametri
 original_sr = 44100
