@@ -1,4 +1,6 @@
 *.mp3
 prova.py
 .DS*
-*.wav
+train_data
+train_data_wav
+data/train
