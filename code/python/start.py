@@ -8,11 +8,11 @@ import matplotlib.pyplot as plt
 
 
 DEVICE      = 'cpu'
-MODEL_PATH  = 'model/UNet_audio_restoration.pth'
-INPUT_FILE  = 'data/music_gen/output_musicgen_1.wav'
+MODEL_PATH  = 'models/UNet_audio_restoration.pth'
+INPUT_FILE  = 'data/music_gen/output_musicgen_8.wav'
 TEMP_FILE   = 'restored_output.wav'
 DEBUG_DIR   = 'spec_debug'
-OUTPUT_FIN  = 'audio_1_restored.wav'
+OUTPUT_FIN  = 'generated_audio/audio_8_restored.wav'
 
 
 MODEL_SR    = 16000
