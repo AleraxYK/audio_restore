@@ -135,3 +135,5 @@ The pipeline consists of the following components:
 - Paul Alexandru Radu Loghin (raduloghin.1942544@di.uniroma1.it)
 - Andrea Maggiore (maggiore.1947898@di.uniroma1.it)
 
+--
+📚 This project was developed as part of an academic course at Sapienza Università di Roma.
